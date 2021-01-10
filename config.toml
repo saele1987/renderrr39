@@ -1,0 +1,4 @@
+baseURL = "https://pianosheetmusicdue.vercel.app"
+languageCode = "en-us"
+title = "Piano Sheet Music 2"
+theme = "hugo-theme-minos"
